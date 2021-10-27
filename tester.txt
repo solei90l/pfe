@@ -1,3 +1,9 @@
 
 
 3
+<<<<<<< HEAD
+=======
+4
+testing
+tamtam
+>>>>>>> dev
